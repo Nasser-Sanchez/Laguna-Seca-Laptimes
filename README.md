@@ -6,7 +6,7 @@ A basic car performance simulation engine designed to compare vehicles on the La
 
 This project began as a **manual analysis** comparing specific vehicle performance (e.g., Dodge Viper ACR-E vs. Bugatti Veyron Supersport) using static CSV data and Excel-based calculations.
 
-It has now evolved into a **scalable, automated engineering project**. The current architecture automates the entire pipeline:
+It will evolve into a **scalable, automated engineering project**:
 1.  **Ingestion:** Raw car specs and track geometry are loaded via a data pipeline.
 2.  **Transformation:** Data is cleaned and standardised using **DuckDB** and **dbt**.
 3.  **Simulation:** The core physics engine runs distributed Monte Carlo simulations using **Apache Spark**.
