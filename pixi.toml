@@ -1,0 +1,17 @@
+[workspace]
+authors = ["Nasser-Sanchez <jameel02@live.co.uk>"]
+channels = ["conda-forge"]
+name = "Laguna Seca"
+platforms = ["win-64"]
+version = "0.1.0"
+
+[tasks]
+
+[dependencies]
+python = "3.11.*"
+pandas = ">=3.0.5,<4"
+numpy = ">=2.4.6,<3"
+plotly = ">=7.0.0,<8"
+fastapi = ">=0.141.1,<0.142"
+uvicorn = ">=0.52.4,<0.53"
+pytest = ">=9.1.1,<10"
