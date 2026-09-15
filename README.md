@@ -29,7 +29,6 @@ It will evolve into a **scalable, automated engineering project**:
 | **Simulation** | **PySpark** | Distributed Monte Carlo processing |
 | **Analysis** | **Python** (NumPy, Pandas) | Curve fitting and statistical analysis |
 | **Deployment** | **FastAPI** | API for web application and visualisation |
-| **Visualisation** | **Plotly** | Rendering track maps and race animations |
 
 
 ## Planned Project Structure
