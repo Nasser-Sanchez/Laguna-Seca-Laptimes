@@ -1,5 +1,5 @@
 # Laguna Seca Car Performance Simulator
-
+## IN PROGRESS
 A basic car performance simulation engine designed to compare vehicles on the Laguna Seca circuit. The system produces Monte Carlo lap time distributions based on driver skill and car configuration, enabling relative ranking and sensitivity analysis.
 
 ## Project Evolution
