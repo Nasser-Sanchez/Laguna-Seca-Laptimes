@@ -44,4 +44,3 @@ It will evolve into a **scalable, automated engineering project**:
 
 - **Viper ACR-E:** Target lap time ~1:28.65 (Modelled: ~1:30.65)
 
-*Note: Modelled times are currently within ~2% of real-world data pending final friction coefficient calibration.*
